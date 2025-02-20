@@ -23,3 +23,5 @@
 
 ## 4.A star search
 ![astar pic](https://github.com/user-attachments/assets/f4c3783a-f5bc-4307-b5ef-d42af4c6b119)
+
+note: 图中的得分是运动过程中的实时得分，并不是最终得分，最终得分请以实际运行结果为主。
